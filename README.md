@@ -1,2 +1,2 @@
 # adult_census_income
-Este projeto é uma parte do processo seletivo para cientista de dados da PagSeguro. A partir do dataset do Census database de 1994 deve-se aplicar boas práticas do processo de machine learning e desenvolver um modelo para determinar se uma pessoa ganha acima de 50K por ano.
+Este projeto utiliza o dataset do Census database de 1994 para um exercício de aplicação de algumas boas práticas do processo de desenvolvimento de modelos de machine learning  a fim de determinar se uma pessoa ganha acima de 50K por ano.
